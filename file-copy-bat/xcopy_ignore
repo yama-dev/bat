@@ -1,3 +1,11 @@
-node_modules
-.sass-cache
+.svn
+.psd
+.ai
 .git
+.sass-cache
+node_modules
+wp-admin
+wp-content\uploads
+wp-content\ai1wm-backups
+wp-includes
+.wpress
